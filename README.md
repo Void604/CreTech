@@ -7,7 +7,7 @@ A collection of diverse projects. This repository showcases various development 
 
 This is a real-time chat application website built with the goal of providing seamless communication. It offers users the ability to connect and chat in various ways, including joining public chatrooms and engaging in direct one-on-one conversations. The application prioritizes user security and provides a secure environment for online interaction through robust authentication features.
 
-**Live Demo:** https://commonchat.netlify.app/
+## **Live Demo:** https://commonchat.netlify.app/
 
 ## Key Features
 
@@ -92,6 +92,8 @@ Contributions are welcome! If you have any ideas for improvements or find any bu
 ## Java Banking System
 
 A simple banking system built with Java and MySQL that demonstrates core banking operations including account management, transactions, and customer management.
+
+## Hosted here:- [https://todo-taskmgmt.netlify.app/](https://bankingsystemwebsite-securebank.netlify.app/)
 
 ## Project Structure
 
