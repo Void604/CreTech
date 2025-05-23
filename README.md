@@ -93,7 +93,7 @@ Contributions are welcome! If you have any ideas for improvements or find any bu
 
 A simple banking system built with Java and MySQL that demonstrates core banking operations including account management, transactions, and customer management.
 
-## Hosted here:- [https://todo-taskmgmt.netlify.app/](https://bankingsystemwebsite-securebank.netlify.app/)
+## Hosted here:- https://bankingsystemwebsite-securebank.netlify.app/
 
 ## Project Structure
 
