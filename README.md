@@ -96,25 +96,6 @@ A simple banking system built with Java and MySQL that demonstrates core banking
 
 ## 🔗 Hosted here:- https://bankingsystemwebsite-securebank.netlify.app/
 
-## 🧱 Project Structure
-
-```
-src/main/java/com/banking/
-├── model/
-│   ├── BankAccount.java
-│   ├── Customer.java
-│   └── Transaction.java
-├── dao/
-│   ├── BankAccountDAO.java
-│   ├── CustomerDAO.java
-│   ├── DatabaseConnection.java
-│   └── TransactionDAO.java
-├── service/
-│   └── BankingService.java
-└── ui/
-    └── BankingConsoleApp.java
-```
-
 ## 🔧 Setup Instructions
 
 ### Prerequisites
