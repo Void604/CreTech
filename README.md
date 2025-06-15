@@ -1,9 +1,5 @@
 # CreTech 🚀
 
-[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/Void604)
-[![GitHub Stars](https://img.shields.io/github/stars/Void604/CreTech?style=social)](https://github.com/Void604/CreTech/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Void604/CreTech?style=social)](https://github.com/Void604/CreTech/network/members)
-
 > A collection of diverse projects showcasing various development skills and approaches to building different types of applications.
 
 ---
